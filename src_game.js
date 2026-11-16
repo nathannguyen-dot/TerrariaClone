@@ -1,6 +1,6 @@
-import { HOTBAR, BLOCK_NAME, MAX_HEALTH, TILE_SIZE } from "./config.js";
-import { World } from "./world.js";
-import { Player } from "./player.js";
+import { HOTBAR, BLOCK_NAME, MAX_HEALTH, TILE_SIZE } from "./src_config.js";
+import { World } from "./src_world.js";
+import { Player } from "./src_player.js";
 
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
