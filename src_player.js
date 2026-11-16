@@ -1,4 +1,4 @@
-import { GRAVITY, MOVE_SPEED, JUMP_SPEED, TILE_SIZE, MAX_HEALTH } from "./config.js";
+import { GRAVITY, MOVE_SPEED, JUMP_SPEED, TILE_SIZE, MAX_HEALTH } from "./src_config.js";
 
 export class Player {
   constructor(x, y, world) {
