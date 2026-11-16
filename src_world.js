@@ -1,4 +1,4 @@
-import { BLOCKS, TILE_SIZE, WORLD_WIDTH, WORLD_HEIGHT, BLOCK_COLORS } from "./config.js";
+import { BLOCKS, TILE_SIZE, WORLD_WIDTH, WORLD_HEIGHT, BLOCK_COLORS } from "./src_config.js";
 
 export class World {
   constructor() {
